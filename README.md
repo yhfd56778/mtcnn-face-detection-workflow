@@ -1,3 +1,8 @@
+Technical Article:  
+Understanding MTCNN: A Practical Guide to Multi-Task Cascaded Convolutional Networks  
+https://medium.com/@ace.lin0121/understanding-mtcnn-a-practical-guide-to-multi-task-cascaded-convolutional-networks-for-face-efc6cc2a433f
+
+
 MTCNN Face Detection Workflow
 =============================
 
